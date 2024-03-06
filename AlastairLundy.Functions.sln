@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulationFunction", "StringManipulationFunction\StringManipulationFunction.csproj", "{F2996FD4-6450-48CF-A115-8AEAF4FD4DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceGeneratorFunction", "PriceGeneratorFunction\PriceGeneratorFunction.csproj", "{35B81AA4-D110-45FF-BB1F-A27D29274FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2996FD4-6450-48CF-A115-8AEAF4FD4DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2996FD4-6450-48CF-A115-8AEAF4FD4DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2996FD4-6450-48CF-A115-8AEAF4FD4DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2996FD4-6450-48CF-A115-8AEAF4FD4DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B81AA4-D110-45FF-BB1F-A27D29274FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B81AA4-D110-45FF-BB1F-A27D29274FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B81AA4-D110-45FF-BB1F-A27D29274FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B81AA4-D110-45FF-BB1F-A27D29274FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
